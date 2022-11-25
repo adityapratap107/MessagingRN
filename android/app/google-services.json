@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722562353561",
+    "project_id": "messagingrn",
+    "storage_bucket": "messagingrn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722562353561:android:1aa78d546c1a280556ab08",
+        "android_client_info": {
+          "package_name": "com.messagingrn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722562353561-jcfhb6qmn0blpgscgieic1r06u8pd9rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATmt2rmRseRedTIPCVHNlJf2eoO4eOlX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722562353561-jcfhb6qmn0blpgscgieic1r06u8pd9rr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
